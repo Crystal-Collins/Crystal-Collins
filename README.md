@@ -1,6 +1,6 @@
 ![Untitled design](https://user-images.githubusercontent.com/96851362/147720784-09472d75-d204-48c6-a6a9-8b5da906e1c5.jpg)
 
-<h1 align="center">Hey ✨, I'm Crystal</h1>
+<h1 align="center">Hey ✨ I'm Crystal</h1>
 <h3 align="center">A passionate Data Scientist from St. Louis Mo</h3>
 I'm passionate about creating. I'm an artist, by nature. Python excites me! Problem solving gives me life. I'm a Data Scientist with a deep curiosity for Machine Learning. I believe in growth mindset and am committed to being a lifelong learner.
 
